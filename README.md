@@ -17,7 +17,7 @@ This is just the data for the frame, so please use white paper or plastic for th
 </div>
 
 ***
-## M5StackのHEX RGB LED Board 
+## M5Stack HEX RGB LED Board 
 <div align="left">
 <img src="images/pic3.png" >
 </div>
