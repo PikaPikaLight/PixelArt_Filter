@@ -22,3 +22,8 @@ This is just the data for the frame, so please use white paper or plastic for th
 <img src="images/pic3.png" >
 </div>
 
+***
+## micro:bit
+<div align="left">
+<img src="images/pic4.png" >
+</div>
