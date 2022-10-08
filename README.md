@@ -34,3 +34,10 @@ This is just the data for the frame, so please use white paper or plastic for th
 <div align="left">
 <img src="images/pic5.png" >
 </div>
+
+***
+## WS-PCB-CIR-133
+2022/10/8 add
+<div align="left">
+<img src="images/pic6.png" >
+</div>
